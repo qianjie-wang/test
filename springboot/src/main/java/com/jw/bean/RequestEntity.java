@@ -11,6 +11,10 @@ public class RequestEntity {
 	public void setObject(Object object) {
 		this.object = object;
 	}
-	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 	
 }
