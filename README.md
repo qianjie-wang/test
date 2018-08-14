@@ -4,4 +4,3 @@ es
 
 stash
 
-double commit
